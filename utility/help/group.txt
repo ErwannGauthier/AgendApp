@@ -1,0 +1,49 @@
+>>> ```Catégorie Group :
+
+add_group
+    Utilisable par: @Agend'Admin
+    Utile pour:     Définir un groupe et l'ajouter à la BDD.
+    Exemple:        !agenda add_group groupe
+    Alias:          addGroup, addgroup, addGrp, addgrp, add_grp
+
+add_groups
+    Utilisable par: @Agend'Admin
+    Utile pour:     Définir des groupes et les ajouter à la BDD.
+    Exemple:        !agenda add_group groupe1 groupe2 groupe3...
+    Alias:          addGroups, addgroups, addGrps, addgrps,
+                    add_grps
+
+role_into_group
+    Utilisable par: @Agend'Admin
+    Utile pour:     Définir un groupe à partir d'un rôle déjà
+                    existant et l'ajouter à la BDD.
+                    (Tous les membres ayant le rôle rejoignent
+                    automatiquement le groupe).
+    Exemple:        !agenda role_into_group @role
+    Alias:          roleIntoGroup, roleintogroup, roleIntoGrp,
+                    roleintogrp, role_into_grp
+
+roles_into_groups
+    Utilisable par: @Agend'Admin
+    Utile pour:     Définir des groupes à partir de rôles déjà
+                    existant et les ajouter à la BDD.
+                    (Tous les membres ayant le.s rôle.s
+                    rejoignent automatiquement le.s groupe.s).
+    Exemple:        !agenda roles_into_group @role1 @role2...
+    Alias:          rolesIntoGroups, rolesintogroups,
+                    rolesIntoGrps, rolesintogrps,
+                    roles_into_grps
+
+del_group
+    Utilisable par: @Agend'Admin
+    Utile pour:     Supprimer un groupe de la BDD.
+                    (Supprime aussi le rôle du serveur).
+    Exemple:        !agenda del_group @groupe
+    Alias:          delGroup, delgroup, delGrp, delgrp, del_grp
+
+list_group
+    Utilisable par: Tout le monde.
+    Utile pour:     Lister les groupes du serveur.
+    Exemple:        !agenda list_group
+    Alias:          listGroup, listgroup, listGrp, listgrp,
+                    list_grp```

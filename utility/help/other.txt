@@ -1,0 +1,21 @@
+>>> ```Catégorie Other :
+
+Cette catégorie n'existe pas réellement, vous ne pouvez pas utiliser les commandes suivantes sur la catégorie other.
+
+load
+    Utilisable par: @Agend'Admin
+    Utile pour:     Charger une catégorie et activer les
+                    commandes qu'elle contient.
+    Exemple:        !agenda load catégorie
+
+reload
+    Utilisable par: @Agend'Admin
+    Utile pour:     Recharger une catégorie et réactiver les
+                    commandes qu'elle contient.
+    Exemple:        !agenda reload catégorie
+
+unload
+    Utilisable par: @Agend'Admin
+    Utile pour:     Décharger une catégorie et désactiver les
+                    commandes qu'elle contient.
+    Exemple:        !agenda unload catégorie```

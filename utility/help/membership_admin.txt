@@ -1,0 +1,38 @@
+>>> ```Catégorie Membership_admin :
+
+add_member_to_group
+    Utilisable par: @Agend'Admin
+    Utile pour:     Permet à un admin d'ajouter un membre à un
+                    groupe.
+    Exemple:        !agenda add_member_to_group @membre @groupe
+    Alias:          amtg, addMemberToGroup, addmembertogroup,
+                    addMembToGrp, addmembtogrp
+
+add_members_to_group
+    Utilisable par: @Agend'Admin
+    Utile pour:     Permet à un admin d'ajouter des membres à un
+                    groupe.
+    Exemple:        !agenda add_member_to_group @membre1
+                    @membre2 @groupe
+    Alias:          amstg, addMembersToGroup, addmemberstogroup,
+                    addMembsToGrp, addmembstogrp
+
+remove_member_from_group
+    Utilisable par: @Agend'Admin.
+    Utile pour:     Permet à un admin de retirer un membre d'un
+                    groupe.
+    Exemple:        !agenda remove_member_from_group @membre
+                    @groupe
+    Alias:          rmfg, removeMemberFromGroup,
+                    removememberfromgroup, rmMembFromGrp,
+                    rmmembfromgrp
+
+remove_members_from_group
+    Utilisable par: @Agend'Admin.
+    Utile pour:     Permet à un admin de retirer des membres
+                    d'un groupe.
+    Exemple:        !agenda remove_members_from_group @membre1
+                    @membre2 @groupe
+    Alias:          rmsfg, removeMembersFromGroup,
+                    removemembersfromgroup, rmMembsFromGrp,
+                    rmmembsfromgrp```

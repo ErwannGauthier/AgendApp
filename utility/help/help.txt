@@ -1,0 +1,11 @@
+>>> ```Catégories :
+
+• group
+• homework
+• membership
+• membership_admin
+• other
+• subject
+
+Saisissez "!agenda HELP catégorie" pour avoir des informations sur les commandes de chaque catégorie.
+```

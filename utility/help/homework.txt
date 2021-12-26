@@ -1,0 +1,23 @@
+>>> ```Catégorie Homework :
+
+add_devoir
+    Utilisable par: Tout le monde.
+    Utile pour:     Ajouter des devoirs pour un groupe et une
+                    matière à une date précise.
+    Exemple:        !agenda add_devoir @groupe matière
+                    JJ/MM/AAAA devoirs
+    Alias:          addDevoir, adddevoir, addDev, adddev
+
+del_devoir
+    Utilisable par: Tout le monde.
+    Utile pour:     Supprimer des devoirs pour un groupe et une
+                    matière à une date précise.
+    Exemple:        !agenda del_devoir @groupe matière
+                    JJ/MM/AAAA id_auteur devoirs
+    Alias:          delDevoir, deldevoir, delDev, deldev
+
+devoir
+    Utilisable par: Tout le monde.
+    Utile pour:     Lister les devoirs.
+    Exemple:        !agenda devoir
+    Alias:          Devoir, dev```

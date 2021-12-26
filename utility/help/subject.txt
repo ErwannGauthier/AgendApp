@@ -1,0 +1,33 @@
+>>> ```Catégorie Subject :
+
+add_matiere
+    Utilisable par: @Agend'Admin
+    Utile pour:     Définir une matière et l'ajouter à la BDD.
+    Exemple:        !agenda add_matiere nom_matière diminutif
+    Alias:          addMatiere, addmatiere, addMat, addmat,
+                    add_mat
+
+add_matieres
+    Utilisable par: @Agend'Admin
+    Utile pour:     Définir des matières et les ajouter
+                    à la BDD.
+    Exemple:        !agenda add_matieres nom_matière1 diminutif1
+                    nom_matière2 diminutif2...
+    Alias:          addMatieres, addmatieres, addMats, addmats,
+                    add_mats
+
+del_matiere
+    Utilisable par: @Agend'Admin
+    Utile pour:     Supprimer une matière de la BDD.
+    Exemple:        !agenda del_matiere nom_matière
+                    OU
+                    !agenda del_matiere diminutif
+    Alias:          delMatiere, delmatiere, delMat, delmat,
+                    del_mat
+
+list_matiere
+    Utilisable par: Tout le monde.
+    Utile pour:     Lister les matières du serveur.
+    Exemple:        !agenda list_matiere
+    Alias:          listMatiere, listmatiere, listMat, listmat,
+                    list_mat```

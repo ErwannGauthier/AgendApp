@@ -1,0 +1,29 @@
+>>> ```Catégorie Membership :
+
+join_group
+    Utilisable par: Tout le monde.
+    Utile pour:     Rejoindre un groupe.
+    Exemple:        !agenda join_group @groupe
+    Alias:          joinGroup, joingroup, joinGrp, joingrp,
+                    join_grp
+
+join_groups
+    Utilisable par: Tout le monde.
+    Utile pour:     Rejoindre des groupes.
+    Exemple:        !agenda join_group @groupe1 @groupe2...
+    Alias:          joinGroups, joingroups, joinGrps, joingrps,
+                    join_grps
+
+leave_group
+    Utilisable par: Tout le monde.
+    Utile pour:     Quitter un groupe.
+    Exemple:        !agenda leave_group @groupe
+    Alias:          leaveGroup, leavegroup, leaveGrp, leavegrp,
+                    leave_grp
+
+leave_groups
+    Utilisable par: Tout le monde.
+    Utile pour:     Quitter des groupes.
+    Exemple:        !agenda leave_groups @groupe1 @groupe2...
+    Alias:          leaveGroups, leavegroups, leaveGrps,
+                    leavegrps, leave_grps```
